@@ -1,1 +1,3 @@
 tekst
+new file
+diff test two
