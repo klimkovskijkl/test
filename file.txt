@@ -4,3 +4,4 @@
 add line
 diff test
 add test
+text new line
